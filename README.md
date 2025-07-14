@@ -21,6 +21,9 @@ Disfruto mucho ⭐ todo lo relacionado con la tecnología 🤖 y me apasiona la 
 🔗 Encuéntrame en:
 💼 LinkedIn (https://www.linkedin.com/in/hector-hans-olave-trujillo-5449506a/)
 
+<img src="https://camo.githubusercontent.com/bd266c54a16e7c11f74f5848e1e33b2fb8c8ca4f98b65d143e470812dfbac6f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d494e47436170614465762d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Website" data-canonical-src="www.linkedin.com/in/hector-hans-olave-trujillo-5449506a/" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/5fddefc4a4d281cdecd592d861eac388acfc73e503b146a1a70945f0081d66d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e676361706164657640676d61696c2e636f6d2d656d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Email" data-canonical-src="https://img.shields.io/badge/hansolavet@gmail.com-email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
 ✉️ Contacto
 📧 hansolavet@gmail.com
 
