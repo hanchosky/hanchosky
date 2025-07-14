@@ -104,7 +104,9 @@ I really enjoy ⭐ everything related to technology 🤖, and programming 👨�
 ## 🔗 Contact:
 
 [![Email](https://img.shields.io/badge/hansolavet@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hansolavet@gmail.com)
-[![Email](https://img.shields.io/badge/hansolavet@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hansolavet@gmail.com)
+
+
+
 
 
 
