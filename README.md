@@ -1,6 +1,6 @@
 # Welcome, I'm Hans Olave 👋
 
-### Desarrollador Web Frontend | Desarrollador Móvil | Entusiasta de la Tecnología
+### Frontend Web Developer | Mobile Developer | Technology Enthusiast
 
 ## 🚀 About Me
 
