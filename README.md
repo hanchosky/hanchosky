@@ -1,73 +1,46 @@
- ¡Bienvenido, soy Hans Olave 👋!
+ ¡Hola, soy Hans Olave 👋!
 Desarrollador Web | Desarrollador Móvil | Entusiasta de la Tecnología
-
-Sobre Mí
+🚀 Sobre Mí
 Disfruto mucho ⭐ todo lo relacionado con la tecnología 🤖 y me apasiona la programación 👨‍💻. Siempre estoy buscando crecer, tanto en habilidades técnicas como en cualidades personales.
 
-🌿 Buscando desarrollar mejores cualidades humanas cada día.
+🌿 Busco desarrollar mejores cualidades humanas cada día.
 
 ⌛ Disfruto del desarrollo personal y la productividad.
 
 🫂 Me gusta trabajar en equipo, colaborar y aprender con otras personas.
 
-Tecnologías y Herramientas
-Aquí te presento algunas de las tecnologías y herramientas con las que me gusta trabajar:
+🛠️ Habilidades y Herramientas
+Explora las tecnologías y herramientas con las que me gusta construir e innovar:
 
 
-https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-
-https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-
-https://getbootstrap.com" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
-https://reactjs.org/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
-https://expressjs.com" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-
-https://www.java.com" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-
-https://flutter.dev" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-
-https://developer.android.com" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-
-https://unity.com/" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-
-https://www.ptc.com/en/products/vuforia" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/ptc_vuforia/ptc_vuforia-ar21.svg" alt="vuforia" width="40" height="40"/>
-
-https://git-scm.com/" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-https://kubernetes.io" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-
-https://www.mysql.com/" target="_blank" rel="noreferrer">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-https://www.json.org/json-es.html" target="_blank" rel="noreferrer">
-https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-
-https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
+https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
 
-Encuéntrame en:
+
+https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+https://img.shields.io/badge/-Vuforia-F76E24?style=flat-square&logo=vuforia&logoColor=white" alt="Vuforia">
+
+
+
+https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD">
+
+🔗 Encuéntrame en:
 💼 LinkedIn
 
-Contacto
+✉️ Contacto
 📧 hansolavet@gmail.com
+
+
